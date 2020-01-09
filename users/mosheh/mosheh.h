@@ -73,7 +73,7 @@ enum layer_names {
   KC_UP,        KC_DOWN, KC_LBRC, KC_RBRC, TT(SYMB), \
   KC_LALT, CTL_T(KC_ESC), \
   KC_PGUP, \
-  KC_PGDN, KC_TAB, KC_ENT \
+  KC_PGDN, KC_TAB, LCMD_T(KC_ENT) \
 )
 
 
